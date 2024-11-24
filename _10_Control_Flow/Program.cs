@@ -51,6 +51,7 @@ namespace ControlFlow
             price = (isGoldCustomer) ? 19.95f : 29.95f;
 
             Console.WriteLine(price);
+            
         }
     }
 }
