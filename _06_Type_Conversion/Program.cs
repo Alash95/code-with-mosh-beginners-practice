@@ -9,15 +9,16 @@ namespace _6_Type_Conversion;
             int i = b;
             Console.WriteLine(i);*/
 
-            /*int i = 1000;
-            byte b = (byte) i;
-            Console.WriteLine(b);*/
+            int a = 1000;
+            byte c = (byte) a;
+            Console.WriteLine(c);
+            
 
             try
             {
-                /*var number = "1234";
+                var number = "1234";
                 byte i = Convert.ToByte(number);
-                Console.WriteLine(i);*/
+                Console.WriteLine(i);
 
                 string str = "true";
                 bool b = Convert.ToBoolean(str);
