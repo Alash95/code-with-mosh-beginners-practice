@@ -63,7 +63,7 @@
                 break;
             }*/
 
-            /*const int passwordLength = 10;
+            const int passwordLength = 10;
 
             var random = new Random();
 
@@ -72,7 +72,8 @@
                 buffer[i] = (char)('a' + random.Next(0, 26));
 
             var password = new string(buffer);
-            Console.WriteLine(password);*/
+            Console.WriteLine(password);
+            
    
             
 
