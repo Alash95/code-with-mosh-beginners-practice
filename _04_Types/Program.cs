@@ -13,6 +13,7 @@
             var array2 = array1;
             array2[0] = 0;
             Console.WriteLine(string.Format("array[0]: {0}, array2[1]: {0}", array1[0], array2[0]));
-
+            
+            
         }
     }
