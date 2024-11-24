@@ -56,12 +56,13 @@
             foreach (var n in numbers)
                 Console.WriteLine(n);
 
-            //Reverse()
+            Reverse()
             Array.Reverse(numbers);
 
             Console.WriteLine("Effect of Reverse()");
             foreach (var n in numbers)
-                Console.WriteLine(n);*/
+                Console.WriteLine(n)*/
+
 
             var numbers = new List<int>() { 1, 2, 3, 4};
             numbers.Add(1);
