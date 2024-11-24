@@ -1,11 +1,6 @@
-#bin/
-#obj/
-#/packages/
-#riderModule.iml
-#/_ReSharper.Caches/
-
-# Ignore all files by default
+#Ignore all files by default
 *
+
 
 # Allow directories to be traversed
 !*/
