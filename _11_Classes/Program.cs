@@ -16,6 +16,7 @@ namespace _11_Classes
             var result = calculator.Add(1, 2);
             Console.WriteLine(result);
         }
+        
     }
 
 }
